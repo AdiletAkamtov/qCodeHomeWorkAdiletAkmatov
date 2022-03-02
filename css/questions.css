@@ -1,0 +1,134 @@
+.questions{
+    max-width: 1056px;
+    margin: 0 auto;
+}
+.questions__case{
+    max-width: 827px;
+    margin: 0 auto
+}
+.questions__title{
+    margin-top: 78px;
+    margin-bottom: 0;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 48px;
+    
+    text-align: center;
+    color: #212B31;
+
+}
+.questions__p{
+    margin-top: 21px;
+    margin-bottom: 0;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    color: #72787D;
+}
+
+
+
+
+.block1{
+    max-width: 993px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.delivery__h3{
+    margin-top: 95px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+    margin-bottom: 0;
+
+}
+.delivery__p{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    
+    
+    color: #72787D;
+    margin-bottom: 0;
+}
+.delivery__img{
+    margin-top: 28px;
+    margin-left: 91px;
+    width: 402px;
+    height: 272px;
+}
+
+
+
+.block2{
+    max-width: 993px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.delivery__img_bilding{
+    margin-top: 64px;
+    width: 358px;
+    height: 272px
+}
+.optimization__h3{
+    margin-top: 131px;
+    margin-left: 101px;
+    margin-bottom: 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+
+}
+.optimization__p{
+    margin-left: 101px;
+    margin-bottom: 0;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+
+    color: #72787D;
+
+}
+
+.block3{
+    max-width: 993px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.control__h3{
+    margin-top: 119px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+    width: 550px;
+    height: 24px;
+    margin-right: 34px;
+
+}
+.pc__img{
+    margin-top: 64px;
+    width: 416px;
+    height: 272px;
+}

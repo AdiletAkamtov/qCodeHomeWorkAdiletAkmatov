@@ -1,0 +1,111 @@
+.choose {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.choose__container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.choose__h2__case {
+    display: flex;
+    flex-direction: column;
+    margin-top: 96px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.choose__h2 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    margin: 0;
+    color: #212B31;
+}
+.choose__h3 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+
+    text-align: center;
+
+    color: #212B31;
+    margin-top: 17px;
+    margin-bottom: 0;
+}
+.choose__case{
+    display: flex;
+    justify-content: space-between;
+}
+.choose__icon {
+    display: flex;
+    flex-direction: column;
+    max-width: 448px;
+    text-align: left;
+    position: relative;
+}
+.choose__img{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 58px;
+    left: 0;
+}
+.choose__block {
+    position: relative;
+}
+.choose__title {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+    margin:55px 0px 0px 64px;
+    
+}
+.choose__p {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    color: #72787D;
+    margin:10px 0px 0px 64px;
+}
+.right__block {
+    margin-top: 55px;
+    width: 614px;
+    height: 516px;
+    background: #F6F8F9;
+    border-radius: 5px;
+    }
+.border__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p__text_in_box {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 48px;
+    color: #212B31;
+    max-width: 435px;
+}
+.swiper {
+}
+.p__name__in_box {
+}
+.p__post_in_box {
+}

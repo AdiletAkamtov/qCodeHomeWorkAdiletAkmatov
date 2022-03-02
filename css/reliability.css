@@ -1,0 +1,170 @@
+.reliability{
+    max-width: 1056px;
+    margin: 0 auto;
+}
+.reliability__case{
+    display: flex; 
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+
+}
+.case_logo{
+    display: flex;
+    max-width: 280px;
+    margin: 0 auto;
+    
+}
+.reliability__title{
+    max-width: 280px;
+    margin-top: 143px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #212B31;
+    position: relative;
+}
+.reliability__title:after{
+    content: url(../img/reliability__logo.svg);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: -18px;
+    left: 186px;
+    
+
+}
+.reliability__p{
+    max-width: 857px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+
+    text-align: center;
+    color: #72787D;
+
+}
+
+
+.reliability__line1 {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 48px;
+}
+.reliability__block {  
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}   
+
+.reliability__titleH3 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+
+    text-align: center;
+
+    color: #212B31;
+}
+.p__reliability {
+    margin: 11px 21px 0px 0px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+    text-align: center;
+
+    color: #72787D;
+
+}
+.green__icon {
+    width: 48px;
+    height: 48px;
+}
+
+.bg__margin{
+    margin-top: 62px;
+}
+.bg__block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1056px;
+    height: 130px;
+    margin: 0 auto;
+
+    background: #F6F8F9;
+    border-radius: 5px;
+}
+.bg__logo {
+    margin-left: 40px;
+    width: 40px;
+    height: 40px;
+
+}
+.bg__span {
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    
+    
+    color: #212B31;
+}
+.bg__span>span{
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    
+    
+    color: #212B31;
+}
+.bg__button>button {
+    margin-right: 40px;
+    width: 149px;
+    height: 50px;
+    left: 1059px;
+    top: 5802px;
+
+    background: #FFFFFF;
+    border: 1px solid #DADEDF;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.bg__button__name{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    
+    color: #212B31;
+    
+}
+.bg__button>button:hover{
+    background: #212B31;
+    transition: 0.2s;
+    color: #fff;
+    
+}
+.bg__button__name:hover{
+    color: #F6F8F9;  
+}

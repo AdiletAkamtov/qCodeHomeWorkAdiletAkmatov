@@ -1,0 +1,35 @@
+.partner{
+    max-width: 1088px;
+    margin: 0 auto;
+    margin-top: 71px
+}
+.partner__line{
+    width: 1088px;
+    height: 1px;
+    background: #EEF2F3;
+    margin: 0 auto;
+    margin-bottom: 56px;
+}
+.partner__logo{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1056px;
+    max-height: 157px;
+    margin: 0;
+
+}
+.logo_style{
+    width: 180px;
+    height: 100%;
+    margin: 0 15px;
+
+}
+.down__line{
+    width: 1088px;
+    height: 1px;
+    background: #EEF2F3;
+    margin: 0 auto;
+    margin-top: 56px;
+    margin-bottom: 0;
+}

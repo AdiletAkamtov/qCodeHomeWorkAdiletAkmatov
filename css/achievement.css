@@ -1,0 +1,36 @@
+.achievement {
+    max-width: 672px;
+    margin: 0 auto;
+    margin-top: 127px;
+}
+.achievement__block {
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+.achievement__case {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+.achievement__logo {
+    max-width: 100%;
+}
+.achievement__logo_4{
+    margin-top: 41px;
+}
+.achievement__p {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #72787D;
+    margin-top: 32px;
+    max-width: 134px;
+    }
